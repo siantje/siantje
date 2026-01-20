@@ -43,31 +43,11 @@
 ## 𝚜𝚝𝚊𝚝𝚜 ٩(ˊᗜˋ*)و ♡  
 
 <p align="center">
-  <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif"
-    height="150"
-    alt="Vine Left"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=siantje&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siantje&theme=vue-dark&hide_border=true&layout=compact"
-    height="150"
-    alt="Top Languages"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif"
-    height="150"
-    alt="Vine Right"
-    style="transform: scaleX(-1);"
-  />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siantje&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=360" height="120" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siantje&theme=vue-dark&hide_border=true&layout=compact&card_width=320" height="120" />
 </p>
-
 
 
 # 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚

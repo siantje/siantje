@@ -19,7 +19,7 @@
   <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
 </p>
 
-### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
+### ​˚₊‧꒰ა 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
 <p>
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
   <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>

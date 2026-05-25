@@ -40,7 +40,7 @@
 ### ˚₊‧꒰ა  CREATIVE TECH ໒꒱ ‧₊˚ 
 🎨 pixel sprites & art (aseprite) • 📽️ adobe suite • 🎮 game design/dev (unity & godot) • 💫 blender • ✏️ figma • 🖼️ canva
 
-## STATS ٩(ˊᗜˋ*)و ♡  
+### STATS ٩(ˊᗜˋ*)و ♡  
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif" height="120" />
@@ -50,6 +50,6 @@
 </p>
 
 
-# SOCIALS ૮₍ • ˕ - ₎ა♡₊˚
-[🎨 cara.app](https://cara.app/siany) • [✏️ instagram](https://instagram.com/pixelsbysiana) for some of my pixels and scribbles </br> 
+# 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
+[🎨 cara.app](https://cara.app/siany) • [✏️ instagram](https://instagram.com/pixelsbysiana) for some pixels and scribbles </br> 
 📫 [🇪​​🇲​​🇦​​🇮​​🇱​](mailto:hello@siany.dev) • 🪴 [​🇵​​🇴​​🇷​​🇹​​🇫​​🇴​​🇱​​🇮​​🇴​](https://siany.dev) • 💫 [​​🇮​​🇲​​🇵​​🇴​​🇷​​🇹​​🇦​​🇳​​🇹​](https://i.pinimg.com/originals/26/5f/7a/265f7a3a2e2b376bf414fe4de6373d29.gif)

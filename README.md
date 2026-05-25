@@ -4,6 +4,8 @@
 ⋆˙⟡ — 🎮 interested in cybersec, gaming, creative web builds, 3D modelling, & pixel art</br>
 ⋆˙⟡ — 🌍 uk based
 
+---
+
 # 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
 ### ˚₊‧꒰ა FRONTEND / DESIGN ໒꒱ ‧₊˚ 
 <p>
@@ -18,6 +20,8 @@
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
   <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
 </p>
+
+---
 
 ### ​˚₊‧꒰ა OTHER ​​໒꒱ ‧₊˚
 <p>
@@ -37,8 +41,12 @@
   <a href="https://yarnpkg.com/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" height="40"/></a>
 </p>
 
+---
+
 ### ˚₊‧꒰ა  CREATIVE TECH ໒꒱ ‧₊˚ 
 🎨 pixel sprites & art (aseprite) • 📽️ adobe suite • 🎮 game design/dev (unity & godot) • 💫 blender • ✏️ figma • 🖼️ canva
+
+---
 
 ### STATS ٩(ˊᗜˋ*)و ♡  
 
@@ -49,6 +57,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif" height="120" />
 </p>
 
+---
 
 # 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
 [🎨 cara.app](https://cara.app/siany) • [✏️ instagram](https://instagram.com/pixelsbysiana) for some pixels and scribbles </br> 

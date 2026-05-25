@@ -6,7 +6,7 @@
 
 ---
 
-# 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
+## 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
 ### ˚₊‧꒰ა FRONTEND / DESIGN ໒꒱ ‧₊˚ 
 <p>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
@@ -59,6 +59,6 @@
 
 ---
 
-# 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
+## 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
 [🎨 cara.app](https://cara.app/siany) • [✏️ instagram](https://instagram.com/pixelsbysiana) for some pixels and scribbles </br> 
 📫 [🇪​​🇲​​🇦​​🇮​​🇱​](mailto:hello@siany.dev) • 🪴 [​🇵​​🇴​​🇷​​🇹​​🇫​​🇴​​🇱​​🇮​​🇴​](https://siany.dev) • 💫 [​​🇮​​🇲​​🇵​​🇴​​🇷​​🇹​​🇦​​🇳​​🇹​](https://i.pinimg.com/originals/26/5f/7a/265f7a3a2e2b376bf414fe4de6373d29.gif)

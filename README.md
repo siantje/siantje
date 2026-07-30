@@ -61,4 +61,4 @@
 
 ## 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
 [🎨 cara.app](https://cara.app/siany) • [✏️ instagram](https://instagram.com/pixelsbysiana) for some pixels and scribbles </br> 
-📫 [🇪​​🇲​​🇦​​🇮​​🇱​](mailto:hello@siany.dev) • 🪴 [​🇵​​🇴​​🇷​​🇹​​🇫​​🇴​​🇱​​🇮​​🇴​](https://siany.dev) • 💫 [​​🇮​​🇲​​🇵​​🇴​​🇷​​🇹​​🇦​​🇳​​🇹​](https://i.pinimg.com/originals/26/5f/7a/265f7a3a2e2b376bf414fe4de6373d29.gif)
+📫 [🇪​​🇲​​🇦​​🇮​​🇱​](mailto:hello@siany.dev) • 🪴[​​🇮​​🇲​​🇵​​🇴​​🇷​​🇹​​🇦​​🇳​​🇹​](https://i.pinimg.com/originals/26/5f/7a/265f7a3a2e2b376bf414fe4de6373d29.gif)
